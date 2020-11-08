@@ -1,0 +1,17 @@
+INPUT(
+./debug/main.o
+./debug/mainwindow.o
+./debug/playwindow.o
+./debug/bet.o
+./debug/card.o
+./debug/dealer.o
+./debug/deck.o
+./debug/game.o
+./debug/player.o
+./debug/winner.o
+./debug/setwindow.o
+./debug/qrc_images.o
+./debug/moc_mainwindow.o
+./debug/moc_playwindow.o
+./debug/moc_setwindow.o
+);

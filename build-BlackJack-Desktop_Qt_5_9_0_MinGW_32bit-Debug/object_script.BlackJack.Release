@@ -1,0 +1,17 @@
+INPUT(
+./release/main.o
+./release/mainwindow.o
+./release/playwindow.o
+./release/bet.o
+./release/card.o
+./release/dealer.o
+./release/deck.o
+./release/game.o
+./release/player.o
+./release/winner.o
+./release/setwindow.o
+./release/qrc_images.o
+./release/moc_mainwindow.o
+./release/moc_playwindow.o
+./release/moc_setwindow.o
+);
