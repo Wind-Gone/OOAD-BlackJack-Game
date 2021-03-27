@@ -1,2 +1,2 @@
 # OOAD-BlackJack-Game
-关于21点游戏的c++ + QT 实现
+The implementation of the blackjack game based on QT
